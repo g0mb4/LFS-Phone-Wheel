@@ -1,0 +1,9 @@
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\bin\Release\LFSPWPC.exe
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\bin\Release\LFSPWPC.pdb
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\ResolveAssemblyReference.cache
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\LFSPWPC.Form1.resources
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\LFSPWPC.Properties.Resources.resources
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\GenerateResource.read.1.tlog
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\GenerateResource.write.1.tlog
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\LFSPWPC.exe
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Release\LFSPWPC.pdb

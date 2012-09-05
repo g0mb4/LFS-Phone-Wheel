@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/btnGas"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="^"
+            android:textSize="50dp" />
+
+        <Button
+            android:id="@+id/btnShiftm"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="122dp"
+            android:text="-"
+            android:textSize="50dp" />
+
+        <Button
+            android:id="@+id/btnBrake"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignBaseline="@+id/btnShiftm"
+            android:layout_alignBottom="@+id/btnShiftm"
+            android:layout_alignParentLeft="true"
+            android:text="v"
+            android:textSize="50dp" />
+
+        <Button
+            android:id="@+id/btnShiftp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="+"
+            android:textSize="50dp" />
+
+        <Button
+            android:id="@+id/btnHandBrake"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_alignTop="@+id/btnShiftm"
+            android:layout_toLeftOf="@+id/btnShiftm"
+            android:layout_toRightOf="@+id/btnBrake"
+             android:textSize="50dp"
+            android:text="_" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/btnGas"
+            android:layout_centerHorizontal="true"
+            android:text="--" />
+
+        <EditText
+            android:id="@+id/etIP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/btnConnect"
+            android:layout_toRightOf="@+id/btnGas"
+            android:ems="10"
+            android:hint="Type the IP!" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/btnConnect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/btnShiftp"
+            android:text="Connect" />
+
+        <Button
+            android:id="@+id/btnMouse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/btnConnect"
+            android:layout_below="@+id/btnConnect"
+            android:layout_toLeftOf="@+id/btnShiftp"
+            android:text="Mouse" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnHandBrake"
+            android:layout_centerHorizontal="true"
+            android:text="g0mb4" />
+
+</RelativeLayout>

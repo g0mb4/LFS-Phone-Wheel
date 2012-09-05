@@ -1,0 +1,18 @@
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\LFSPWPC.Form1.resources
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\LFSPWPC.Properties.Resources.resources
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\bin\Debug\LFSPWPC.exe
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\bin\Debug\LFSPWPC.pdb
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\LFSPWPC.exe
+C:\Users\gomba\AppData\Local\Temporary Projects\LFSPWPC\obj\x86\Debug\LFSPWPC.pdb
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\LFSPWPC.exe
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\LFSPWPC.pdb
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\bin\Debug\LFSPWPC.exe
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\LFSPWPC.Form1.resources
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\LFSPWPC.Properties.Resources.resources
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\H\!!!!!!!Programozás\C#\Enyém\LFSPWPC\LFSPWPC\bin\Debug\LFSPWPC.pdb
